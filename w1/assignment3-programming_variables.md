@@ -84,8 +84,9 @@ d. print = "print me"
 e. False = 0
 
 Write your answer here
-All the above besides c set the object on the left hand side of the "=" as the variable for the data, which is on the right hand side. 
-c is erroneous because "!" is an operator or reserved word in python and cannot be used to name a variable.  
+
+All the above besides "c" set the object on the left hand side of the "=" as the variable for the data, which is on the right hand side. 
+"c" is erroneous because "!" is an operator or reserved word in python and cannot be used to name a variable.  
 
 # Challenges
 Please describe the challenges you faced during the exercise.
